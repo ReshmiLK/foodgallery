@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lobster&family=Nerko+One&family=Pacifico&family=Patrick+Hand&family=Rubik+Distressed&family=Secular+One&display=swap');
+body{
+    background-image: url(./images/foodback.jpg);
+    background-size: cover;
+}
+.parent{
+    height: 500px;
+    /* background-color: rgb(230, 202, 202); */
+    display: flex;
+    justify-content: space-around;
+}
+.col{
+    width: 250px;
+    height: 550px;
+    border: 4px rgb(85, 36, 36) solid;
+}
+.col-1{
+    background-color: rgb(128, 119, 90);
+    border-radius: 30px;
+}
+.col-2{
+    background-color: rgb(128, 119, 90);
+    border-radius: 30px;
+
+}
+.col-3{
+    background-color: rgb(128, 119, 90);
+    border-radius: 30px;
+
+}
+.col-4{
+    background-color: rgb(128, 119, 90);
+    border-radius: 30px;
+
+}
+.col-5{
+    background-color: rgb(128, 119, 90);
+    border-radius: 30px;
+
+}
+P{
+    color: white;
+    font-family: 'Lobster', cursive;
+font-size: 40PX;
+text-align: center;
+}
+span{
+    color: rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Nerko One', cursive;
+}
+h2{
+    color: rgb(51, 36, 13);
+    font-family: 'Secular One', sans-serif;
+    text-align: center;
+    font-size: 17px;
+}
+button{
+    height: 27px;
+    width: 110px;
+    background-color: rgb(180, 146, 73);
+    border-radius: 20px;
+margin: auto;
+margin-left: 78px;
+}
+button:hover{
+    background-color: burlywood;
+}
+img{
+    width: 100%;
+    height: 200px;
+
+}
+
+
+
